@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Budhori</h1>
 <br>
-
 <a href="#"><div align="center"> <img src="grid-snake.svg"/>  </div></a>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=ankitbudhori23"/> 
